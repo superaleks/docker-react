@@ -20,6 +20,7 @@ function App() {
           rel="noopener noreferrer"
         >
           ALEKS
+          ALEKS
         </a>
       </header>
     </div>
