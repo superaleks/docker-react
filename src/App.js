@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           My name is Aleksandra
           I am learning docker
+          Deploy again
           <b> ALEKSANDRA</b>
         </p>
         <a
