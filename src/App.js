@@ -8,20 +8,21 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          My name is Aleksandra
+          My name is Marcos
           I am learning docker
           Deploy again
-          <b> ALEKSANDRA</b>
+          <b> MARCOS</b>
         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > aleks
           ALEKS
           ALEKS
 
+         L React
         </a>
       </header>
     </div>
