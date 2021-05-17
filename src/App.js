@@ -13,16 +13,12 @@ function App() {
           Deploy again
           <b> MARCOS</b>
         </p>
-        <a
+        <a>
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        > aleks
-          ALEKS
-          ALEKS
-
-         L React
+        Aleksandra is learning React and Docker
         </a>
       </header>
     </div>
