@@ -6,11 +6,11 @@ services:
 before_install:
   - docker build -t lukicalk/docker-react -f Dockerfile.dev .
 
-script:
-  - docker run lukicalk/docker-react npm run test -- --coverage
-
 #script:
-# - docker run -e CI=true lukicalk/docker-react npm run test
+# - docker run lukicalk/docker-react npm run test -- --coverage
+
+script:
+ - docker run -e CI=true lukicalk/docker-react npm run test
 
 deploy:
   provider: elasticbeanstalk
